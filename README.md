@@ -1,3 +1,3 @@
-### My vscode setting.json file setting that I feel comforatable
+### My vscode settings.json file
 
-#### Feel free to use it
+#### Setting that I feel comfortable to code, Feel free to use it if you want.
