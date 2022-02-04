@@ -1,0 +1,18 @@
+{
+  "sonarlint.ls.javaHome": "c:\\Users\\masrursakib\\.vscode\\extensions\\sonarsource.sonarlint_managed-jre\\jre\\jdk-11.0.13+8-jre",
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "on",
+  "editor.fontLigatures": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "terminal.integrated.fontSize": 18,
+  //   "terminal.integrated.cursorBlinking": true,
+  "window.zoomLevel": 1,
+  "explorer.compactFolders": false,
+  "files.trimTrailingWhitespace": true,
+  "files.associations": {
+    "*.json": "jsonc"
+  }
+}
