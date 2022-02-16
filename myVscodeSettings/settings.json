@@ -14,5 +14,20 @@
   "files.trimTrailingWhitespace": true,
   "files.associations": {
     "*.json": "jsonc"
+  },
+
+  // golang settings
+  "[go]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+
+  "[go.mod]": {
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": false
+    }
   }
 }
